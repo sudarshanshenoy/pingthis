@@ -8,3 +8,10 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+Node Version
+
+### `v12.13.1`
+
+React Version
+
+### `^17.0.2`
